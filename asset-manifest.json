@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0d3d9c33.css",
-    "main.js": "/portfolio/static/js/main.60eb414d.js",
+    "main.js": "/portfolio/static/js/main.a8c619dc.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/webapp.png": "/portfolio/static/media/webapp.0ea49e8b967e916cf458.png",
     "static/media/crowdfunding.png": "/portfolio/static/media/crowdfunding.4b2c85feafb79f34f81f.png",
@@ -9,7 +9,6 @@
     "static/media/ecommerce.png": "/portfolio/static/media/ecommerce.5e8ab1a8e501305fa8ae.png",
     "static/media/dropdownnav.png": "/portfolio/static/media/dropdownnav.28e901bb34cea08c39e8.png",
     "static/media/logo03sec.gif": "/portfolio/static/media/logo03sec.79395399f8dfa91d7dc6.gif",
-    "static/media/homelogo.gif": "/portfolio/static/media/homelogo.6a5a8ee8fa217e6d0de8.gif",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/pricing.png": "/portfolio/static/media/pricing.30f9419ffc93e52e5125.png",
     "static/media/headshot.jpg": "/portfolio/static/media/headshot.0abfc30e7143f38916ec.jpg",
@@ -27,11 +26,11 @@
     "static/media/moon.svg": "/portfolio/static/media/moon.7e493a357687e9ab81ff.svg",
     "index.html": "/portfolio/index.html",
     "main.0d3d9c33.css.map": "/portfolio/static/css/main.0d3d9c33.css.map",
-    "main.60eb414d.js.map": "/portfolio/static/js/main.60eb414d.js.map",
+    "main.a8c619dc.js.map": "/portfolio/static/js/main.a8c619dc.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d3d9c33.css",
-    "static/js/main.60eb414d.js"
+    "static/js/main.a8c619dc.js"
   ]
 }
